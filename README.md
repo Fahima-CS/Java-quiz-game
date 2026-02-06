@@ -1,11 +1,14 @@
 # Java-quiz-game
 A simple quiz game built in Java.
 
+## Features
+- 5 quiz questions
+- Score tracking
+- Percentage calculation
+- Final performance feedback
 
-This repository contains my coursework, practice, and projects for Term 3.
-
-## Topics I'm Learning
-- Java Programming
-- Data Structures
-- Object-Oriented Design
-- Problem Solving
+## Concepts Used
+- Scanner input
+- if/else conditions
+- switch statements
+- Basic Java programming
